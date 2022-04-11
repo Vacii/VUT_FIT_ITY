@@ -18,7 +18,7 @@ Projekty předmětu ITY - Typografie a publikování.
 
 ### Proj3: 10.5/15
 > **Komentář učitele k hodnocení:**  
--4:napoprve neprelozeno (zapomněl jsem odevzdat zdrojové obrázky)
+-4:napoprve neprelozeno (zapomněl jsem odevzdat zdrojové obrázky)  
 -0.5:nepouzito today
 
 ## Author
