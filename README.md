@@ -16,7 +16,10 @@ Projekty předmětu ITY - Typografie a publikování.
 -0:chybí použití symbolu \setminus  
 -0:mezi číslem a jednotkou píšeme zůženou mezeru (např. 0{,}4\,em a 0{,}3\,em) --> ní velikostí 0,4~em a 0,3~em.
 
-### Proj3: TBD/15
+### Proj3: 10.5/15
+> **Komentář učitele k hodnocení:**  
+-4:napoprve neprelozeno (zapomněl jsem odevzdat zdrojové obrázky)
+-0.5:nepouzito today
 
 ## Author
 **Václavek Lukáš** - [xvacla32](mailto:xvacla32@stud.fit.vutbr.cz)
